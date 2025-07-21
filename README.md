@@ -19,5 +19,5 @@
   
 <h3> 💫🚀 Conecte-se comigo! </h3>
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)]((https://www.linkedin.com/in/gabrielfigueiredodeandrade/))
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gabrielfigueiredodeandrade/)
 
