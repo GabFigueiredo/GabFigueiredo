@@ -13,10 +13,11 @@
 [![My Skills](https://skillicons.dev/icons?i=react,spring)](https://skillicons.dev)
  
  <h3> 📚Outras ferramentas <h3>
+   
 [![My Skills](https://skillicons.dev/icons?i=figma,docker,postgres)](https://skillicons.dev)
 
   
 <h3> 💫🚀 Conecte-se comigo! </h3>
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)]((https://www.linkedin.com/in/gabrielfigueiredodeandrade/))
 
